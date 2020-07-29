@@ -19,6 +19,8 @@ public class JUnitAnnotation {
     @Test
     public void test3(){
         System.out.println("Printing Test3");
+        System.out.println("GitHub icin deneme");
+        
     }
 
 }
